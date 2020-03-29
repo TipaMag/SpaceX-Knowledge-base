@@ -1,0 +1,11 @@
+.app-wrapper {
+  max-width: 1200px;
+  margin: 20px auto 0;
+}
+.app-wrapper-container {
+  display: flex;
+  flex-flow: row;
+}
+.app-wrapper-content {
+  flex: 5 5;
+}
